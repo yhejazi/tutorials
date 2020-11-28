@@ -1,0 +1,12 @@
+name: tutorial
+title: tutorial
+username:
+account: yhejazi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3313591
+bundleId: 3914485
+url: https://yhejazi.shinyapps.io/tutorial/
+when: 1606525416.53529
+asMultiple: FALSE
+asStatic: FALSE
